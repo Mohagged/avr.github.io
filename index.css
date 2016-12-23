@@ -1,0 +1,68 @@
+@font-face{
+    font-family: "Digitall";
+    src: url('Digitall.ttf'),
+    url('Digitall.eot'); /* IE */
+}
+
+.inv{
+	opacity: 0;
+}
+
+.digi{
+	font-family: "Digitall";
+	text-align: center;
+}
+
+h1 {
+	font-size: 600%;
+}
+
+h2 {
+	font-size: 400%;
+}
+
+body{
+	font-family: "Lucida Sans Unicode", sans-serif;
+	line-height:1.5em;
+	max-width:69%;
+	padding:0 2%;
+	margin:auto;
+}
+
+iframe {
+	width: 100%;
+}
+
+p {
+	font-family: "Lucida Sans Unicode", sans-serif;
+	font-size: 300%;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover {
+	color:white;
+	background-color: black;
+}
+
+.contact {
+	text-align: left;
+}
+
+.contact ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+.contact li {
+	display: inline;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+}
+
+footer {
+	margin-bottom: 4%;
+}
